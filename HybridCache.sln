@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HybridCache.Api", "HybridCache.Api\HybridCache.Api.csproj", "{4DB4FB41-C6D3-48EA-8856-709250F69A0B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HybridCacheDotnet9.Api", "HybridCache.Api\HybridCacheDotnet9.Api.csproj", "{4DB4FB41-C6D3-48EA-8856-709250F69A0B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
